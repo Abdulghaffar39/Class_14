@@ -2,6 +2,10 @@
 
     text-align: center;
 }
+
+
+
+
 #parent_1 {
 
     background-color: skyblue;
@@ -41,3 +45,25 @@ h1 {
     margin: 0px;
     padding: 30px;
 }
+
+#head  {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#para_1 {
+
+    font-family: "Playwrite AU VIC Guides", serif;
+}
+
+#para_2 {
+
+    font-family: "Oswald", serif;
+}
+
+#para_3 {
+
+    font-family: "Playfair Display", serif;
+}
+
+
