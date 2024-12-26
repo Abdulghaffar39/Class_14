@@ -55,26 +55,33 @@ h1 {
 #head  {
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
+
 
 #para_1 {
 
     font-family: "Playwrite AU VIC Guides", serif;
+    font-weight: 800;
+    font-size: large;
 }
 
 #para_2 {
 
     font-family: "Oswald", serif;
+    font-size: x-large;
 }
 
 #para_3 {
 
     font-family: "Playfair Display", serif;
+    font-size:x-small;
 }
 
 #para_4 {
 
     font-family: cursive;
+    
 }
 
 #para_5 {
