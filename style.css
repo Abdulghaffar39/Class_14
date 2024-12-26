@@ -1,4 +1,4 @@
-* {
+/* * {
 
     text-align: center;
 }
@@ -45,6 +45,12 @@ h1 {
     margin: 0px;
     padding: 30px;
 }
+ */
+
+ @font-face {
+    font-family: Abdul-bold;
+    src: url(./font/Rubik_Vinyl/RubikVinyl-Regular.ttf);
+ }
 
 #head  {
 
@@ -64,6 +70,17 @@ h1 {
 #para_3 {
 
     font-family: "Playfair Display", serif;
+}
+
+#para_4 {
+
+    font-family: cursive;
+}
+
+#para_5 {
+
+    font-family: Abdul-bold;
+    font-weight: 800;
 }
 
 
